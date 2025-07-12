@@ -1,1 +1,1 @@
-# Projecto-acad-mico
+# Projecto-academico
